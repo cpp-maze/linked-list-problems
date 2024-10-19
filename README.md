@@ -9,3 +9,6 @@
 - [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)
   - [video link (Lang: Tamil)](https://youtu.be/zuXqpsifzIE)
   - [code link](https://github.com/cpp-maze/linked-list-problems/blob/main/problems/remove-nth-node-from-end-of-list.cpp)
+- [Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/)
+  - [video link (Lang: Tamil)](https://youtu.be/wchkyV3fM2s)
+  - [code link](https://github.com/cpp-maze/linked-list-problems/blob/main/problems/intersection-of-two-linked-lists.cpp)
