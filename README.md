@@ -10,5 +10,6 @@
   - [video link (Lang: Tamil)](https://youtu.be/zuXqpsifzIE)
   - [code link](https://github.com/cpp-maze/linked-list-problems/blob/main/problems/remove-nth-node-from-end-of-list.cpp)
 - [Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/)
-  - [video link (Lang: Tamil)](https://youtu.be/wchkyV3fM2s)
+  - [Approach 1 video link (Lang: Tamil)](https://youtu.be/wchkyV3fM2s)
+  - [Approach 2 video link (Lang: Tamil)](https://youtu.be/eCkUitgyhiI)
   - [code link](https://github.com/cpp-maze/linked-list-problems/blob/main/problems/intersection-of-two-linked-lists.cpp)
